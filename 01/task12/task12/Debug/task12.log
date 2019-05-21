@@ -1,0 +1,3 @@
+﻿  task12.cpp
+C:\Users\outrorun\Documents\GitHub\2019\01\task12\task12\task12.cpp(19): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+  task12.vcxproj -> C:\Users\outrorun\Documents\GitHub\2019\01\task12\Debug\task12.exe
